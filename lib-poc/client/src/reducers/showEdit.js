@@ -3,7 +3,7 @@ debugger
   switch (action.type) {  
     case 'TOGGLE_TODO':
       return action
-    case 'EDIT_TODO':
+    case 'FETCH_ALL':
       return {}
     default:
       return state
