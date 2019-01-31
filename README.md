@@ -1,5 +1,11 @@
 # library_app
 
+# node version 
+  v10.15.0
+  
+# npm version
+  6.4.1
+  
 # Run the application
 
 1. go to command prompt/terminal
