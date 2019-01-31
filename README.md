@@ -14,8 +14,8 @@
 
 # App manual
 
-Get all books: Click on the BOOK LIST button to get all the books
-Search: 'Search by Book Name' area is to search a particular book by its name.
-Add new book: Fill up the data and click on 'Add New Book' to add a new book.
-Edit a book: 1.Click on any book row in below table to edit the book deatails
+1.Get all books: Click on the BOOK LIST button to get all the books
+2.Search: 'Search by Book Name' area is to search a particular book by its name.
+3.Add new book: Fill up the data and click on 'Add New Book' to add a new book.
+4.Edit a book: 1.Click on any book row in below table to edit the book deatails
          2. Fill up the data and click on 'Edit New Book' to add a new book.
